@@ -1,0 +1,29 @@
+h1{
+    color: rgb(66, 45, 45);
+}
+h1, h2, footer{
+    text-align: center;
+}
+body{
+    font-size: larger;
+}
+img{
+    width:80%;
+    height: auto;
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
+*{
+    background-color: antiquewhite;
+    color: rgb(68, 58, 58);
+}
+ul{
+    list-style-type:square;
+}
+a{
+    color: blue;
+}
+footer{
+    font-size: small;
+}
