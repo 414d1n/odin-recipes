@@ -8,10 +8,10 @@ body{
     font-size: larger;
 }
 img{
-    width:80%;
+    width:60%;
     height: auto;
-    padding-left: 10%;
-    padding-right: 10%;
+    margin-left: 20%;
+    margin-right: 20%;
 }
 
 *{
@@ -23,7 +23,18 @@ ul{
 }
 a{
     color: blue;
+    white-space: nowrap;
+    margin: 5px;
 }
 footer{
     font-size: small;
 }
+.next{
+   float: right;
+}
+/* 
+oder:
+.next{
+position: absolute;
+   right: 0; 
+}*/
